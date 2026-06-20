@@ -162,7 +162,8 @@
             {"id": "run_44", "name": "(UGC) Dog", "animation_id": "130072963359721", "category": "ugc"},
             {"id": "run_45", "name": "(UGC) Pride", "animation_id": "116462200642360", "category": "ugc"},
             {"id": "run_46", "name": "(UGC) Retro", "animation_id": "107806791584829", "category": "ugc"},
-            {"id": "run_47", "name": "(UGC) Retro Zombie", "animation_id": "140703855480494", "category": "ugc"}
+            {"id": "run_47", "name": "(UGC) Retro Zombie", "animation_id": "140703855480494", "category": "ugc"},
+            {"id": "run_48", "name": "Adidas Aura", "animation_id": "118320322718866", "category": "popular"}
         ],
         "jump": [
             {"id": "jump_1", "name": "Original", "animation_id": "original", "category": "default"},
@@ -203,7 +204,8 @@
             {"id": "jump_36", "name": "Wicked (Popular)", "animation_id": "104325245285198", "category": "popular"},
             {"id": "jump_37", "name": "No Boundaries (Walmart)", "animation_id": "18747069148", "category": "casual"},
             {"id": "jump_38", "name": "Zombie", "animation_id": "616161997", "category": "horror"},
-            {"id": "jump_39", "name": "(UGC) Retro", "animation_id": "139390570947836", "category": "ugc"}
+            {"id": "jump_39", "name": "(UGC) Retro", "animation_id": "139390570947836", "category": "ugc"},
+            {"id": "jump_40", "name": "Adidas Aura", "animation_id": "109996626521204", "category": "ugc"}
         ],
         "climb": [
             {"id": "climb_1", "name": "Original", "animation_id": "original", "category": "default"},
